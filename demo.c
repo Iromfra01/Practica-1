@@ -2,5 +2,9 @@
 
 main{
 
+  /*Seccion de Vriables*/
+  
+   /*Fin de Seccion de Vriables*/
+  
 
 }
